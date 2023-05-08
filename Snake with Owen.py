@@ -24,6 +24,7 @@ food.penup()
 food.goto(0,100)
 
 
+
 while True:
     window.update()
 
